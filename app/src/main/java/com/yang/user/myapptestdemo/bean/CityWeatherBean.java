@@ -351,7 +351,6 @@ public class CityWeatherBean {
             private SportBean sport;
             private TravBean trav;
             private UvBean uv;
-
             public ComfBean getComf() {
                 return comf;
             }
