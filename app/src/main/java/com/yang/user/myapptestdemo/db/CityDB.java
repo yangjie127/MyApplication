@@ -10,6 +10,9 @@ import android.text.TextUtils;
 
 import com.yang.user.myapptestdemo.bean.City;
 
+/**
+ * Created by YangJie on 2017/4/17.
+ */
 
 public class CityDB {
 	public static final String CITY_DB_NAME = "city.db";

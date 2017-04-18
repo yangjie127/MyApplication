@@ -3,10 +3,7 @@ package com.yang.user.myapptestdemo.utils;
 import android.util.Log;
 
 /**
- * Log统一管理类
- * 
- * @author way
- * 
+ * Created by YangJie on 2017/4/17.
  */
 public class L {
 	public static boolean isDebug = true;// 是否需要打印bug，可以在application的onCreate函数里面初始化

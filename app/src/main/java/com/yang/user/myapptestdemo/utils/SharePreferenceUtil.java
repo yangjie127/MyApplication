@@ -1,4 +1,7 @@
 package com.yang.user.myapptestdemo.utils;
+/**
+ * Created by YangJie on 2017/4/17.
+ */
 
 import android.content.Context;
 import android.content.SharedPreferences;
